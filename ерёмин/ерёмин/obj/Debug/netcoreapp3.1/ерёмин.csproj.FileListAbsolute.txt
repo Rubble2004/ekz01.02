@@ -1,0 +1,9 @@
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\obj\Debug\netcoreapp3.1\ерёмин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\obj\Debug\netcoreapp3.1\ерёмин.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\obj\Debug\netcoreapp3.1\ерёмин.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\obj\Debug\netcoreapp3.1\ерёмин.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\bin\Debug\netcoreapp3.1\ерёмин.deps.json
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\bin\Debug\netcoreapp3.1\ерёмин.dll
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\bin\Debug\netcoreapp3.1\ерёмин.pdb
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\obj\Debug\netcoreapp3.1\ерёмин.dll
+C:\Users\Администратор\source\repos\ерёмин\ерёмин\obj\Debug\netcoreapp3.1\ерёмин.pdb
